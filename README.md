@@ -4,7 +4,7 @@ Beta page for LitLyric an Android AudioBookServer client
 Application Pages Overview
 This document provides a detailed overview of each page within the LitLyric application.
 
-1. Login Screen
+# 1. Login Screen
 The Login Screen serves as the entry point for users to access their Audiobookshelf server. It supports both traditional username/password authentication and Single Sign-On (SSO) via OAuth2 for servers that have it enabled.
 
 Key Features:
@@ -21,7 +21,7 @@ Remember Me: Users can opt to have their server URL and username pre-filled on s
 
 Credential Management: If "Remember Me" is enabled, users can clear their saved credentials from the account screen.
 
-2. Main Screen (Home)
+# 2. Main Screen (Home)
 The Main Screen is the central hub of the application, providing a personalized and dynamic overview of the user's library content.
 
 Key Features:
@@ -40,7 +40,7 @@ Navigation Drawer: Accessible from the top bar, the drawer provides quick access
 
 Pull-to-Refresh: Users can refresh the content of the current library by pulling down from the top of the screen.
 
-3. Item Details Screen
+# 3. Item Details Screen
 This screen provides a comprehensive view of a single audiobook or podcast, offering playback controls, metadata, and related content.
 
 Key Features:
@@ -63,7 +63,7 @@ Series Information: If the item is part of a series, a dedicated section display
 
 Metadata Display: Includes expandable sections for Chapters and Audio Files, and displays genres and tags associated with the item.
 
-4. Author and Series Screens
+# 4. Author and Series Screens
 These pages help users discover and explore content by author or series.
 
 Author Screen:
@@ -78,7 +78,7 @@ Shows a cover art collage of the books in the series.
 
 Lists all books in the series in their correct order, with their title, publication year, and duration.
 
-5. Podcast Screens
+# 5. Podcast Screens
 The app includes dedicated screens for discovering and listening to podcasts.
 
 Podcast Details Screen:
@@ -93,7 +93,7 @@ Provides detailed information about a single episode, including its title, descr
 
 Features prominent Play and Download buttons, along with a "More" menu for actions like "Mark as Finished" and "Discard Progress".
 
-6. Player Screen
+# 6. Player Screen
 The Player Screen is a modal sheet that appears when media is playing, providing a rich, interactive playback experience.
 
 Key Features:
@@ -120,7 +120,7 @@ Source Indicator: An icon indicates whether the media is streaming from the serv
 
 Seamless Local Playback Switching: If a user starts streaming an audiobook and decides to download it for offline listening, the app will automatically switch to the local version once the download is complete. This process is seamless and does not interrupt the listening experience. The player saves the current position, sends a final progress update to the server, and then immediately resumes playback from the downloaded file.
 
-7. Downloads Screen
+# 7. Downloads Screen
 The Downloads Screen allows users to manage all their offline content in one place.
 
 Key Features:
@@ -133,7 +133,7 @@ Storage Information: Provides a summary of the total space used by downloads and
 
 Bulk Actions: Includes an option to delete all downloaded content at once to free up space.
 
-8. Settings and Account Screens
+# 8. Settings and Account Screens
 These screens provide options for customizing the app and managing the user's account.
 
 Settings Screen:
