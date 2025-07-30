@@ -37,6 +37,7 @@ Personalized Content Sections: The main content area is organized into customiza
 Continue Listening: A prominent horizontal pager displays items the user is currently listening to, showing progress and time remaining.
 
 Customizable Shelves: Users can add, remove, and reorder various shelves like "Discover," "Recently Added," "Continue Series," and "Newest Authors" using a scrollable chip row. This allows for a highly tailored home screen experience.
+![Alt text](/images/Customize.png?raw=true "Customize")
 
 Navigation Drawer: Accessible from the top bar, the drawer provides quick access to other app pages, including Account, User Stats, Downloads, and Settings, as well as a Logout button.
 
