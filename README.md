@@ -43,6 +43,7 @@ Navigation Drawer: Accessible from the top bar, the drawer provides quick access
 Pull-to-Refresh: Users can refresh the content of the current library by pulling down from the top of the screen.
 
 # 3. Item Details Screen
+![Alt text](/images/ItemDetails.png?raw=true "Item Details")
 This screen provides a comprehensive view of a single audiobook or podcast, offering playback controls, metadata, and related content.
 
 Key Features:
@@ -66,6 +67,7 @@ Series Information: If the item is part of a series, a dedicated section display
 Metadata Display: Includes expandable sections for Chapters and Audio Files, and displays genres and tags associated with the item.
 
 # 4. Author and Series Screens
+![Alt text](/images/AuthorSeries.png?raw=true "Author and Series screens")
 These pages help users discover and explore content by author or series.
 
 Author Screen:
