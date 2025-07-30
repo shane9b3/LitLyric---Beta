@@ -23,6 +23,7 @@ Remember Me: Users can opt to have their server URL and username pre-filled on s
 Credential Management: If "Remember Me" is enabled, users can clear their saved credentials from the account screen.
 
 # 2. Main Screen (Home)
+![Alt text](/images/HomeScreen.png?raw=true "Home Screen")
 The Main Screen is the central hub of the application, providing a personalized and dynamic overview of the user's library content.
 
 Key Features:
