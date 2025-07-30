@@ -108,6 +108,8 @@ Key Features:
 
 Full-Screen Interface: Accessible by tapping the Mini Player, it expands to a full-screen view with large cover art and detailed playback information.
 
+![Alt text](/images/MiniPlayer.png?raw=true "Mini Player")
+
 Advanced Playback Controls:
 
 Seek Bar: A custom wavy progress indicator that allows users to scrub through the track.
@@ -128,7 +130,13 @@ Source Indicator: An icon indicates whether the media is streaming from the serv
 
 Seamless Local Playback Switching: If a user starts streaming an audiobook and decides to download it for offline listening, the app will automatically switch to the local version once the download is complete. This process is seamless and does not interrupt the listening experience. The player saves the current position, sends a final progress update to the server, and then immediately resumes playback from the downloaded file.
 
-# 7. Downloads Screen
+# 7. Android Auto
+![Alt text](/images/Auto.png?raw=true "Android Auto")
+Android Auto integration.
+
+More work to be done for full library integration.
+
+# 8. Downloads Screen
 ![Alt text](/images/Downloads.png?raw=true "Downloads screen")
 The Downloads Screen allows users to manage all their offline content in one place.
 
@@ -142,7 +150,7 @@ Storage Information: Provides a summary of the total space used by downloads and
 
 Bulk Actions: Includes an option to delete all downloaded content at once to free up space.
 
-# 8. Settings and Account Screens
+# 9. Settings and Account Screens
 ![Alt text](/images/Settings.png?raw=true "Settings screen")
 These screens provide options for customizing the app and managing the user's account.
 
