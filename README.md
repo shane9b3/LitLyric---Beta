@@ -5,6 +5,7 @@ Application Pages Overview
 This document provides a detailed overview of each page within the LitLyric application.
 
 # 1. Login Screen
+![Alt text](/images/Login-SSO.png?raw=true "Login SSO")
 The Login Screen serves as the entry point for users to access their Audiobookshelf server. It supports both traditional username/password authentication and Single Sign-On (SSO) via OAuth2 for servers that have it enabled.
 
 Key Features:
