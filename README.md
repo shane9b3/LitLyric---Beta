@@ -23,7 +23,7 @@ Remember Me: Users can opt to have their server URL and username pre-filled on s
 Credential Management: If "Remember Me" is enabled, users can clear their saved credentials from the account screen.
 
 # 2. Main Screen (Home)
-![Alt text](/images/HomeScreen.png?raw=true "Home Screen"){ width=100 }
+![Alt text](/images/HomeScreen.png?raw=true "Home Screen")
 The Main Screen is the central hub of the application, providing a personalized and dynamic overview of the user's library content.
 
 Key Features:
@@ -85,6 +85,7 @@ Shows a cover art collage of the books in the series.
 Lists all books in the series in their correct order, with their title, publication year, and duration.
 
 # 5. Podcast Screens
+![Alt text](/images/Podcast.png?raw=true "Podcasts")
 The app includes dedicated screens for discovering and listening to podcasts.
 
 Podcast Details Screen:
@@ -100,6 +101,7 @@ Provides detailed information about a single episode, including its title, descr
 Features prominent Play and Download buttons, along with a "More" menu for actions like "Mark as Finished" and "Discard Progress".
 
 # 6. Player Screen
+![Alt text](/images/Player.png?raw=true "Player screen")
 The Player Screen is a modal sheet that appears when media is playing, providing a rich, interactive playback experience.
 
 Key Features:
@@ -127,6 +129,7 @@ Source Indicator: An icon indicates whether the media is streaming from the serv
 Seamless Local Playback Switching: If a user starts streaming an audiobook and decides to download it for offline listening, the app will automatically switch to the local version once the download is complete. This process is seamless and does not interrupt the listening experience. The player saves the current position, sends a final progress update to the server, and then immediately resumes playback from the downloaded file.
 
 # 7. Downloads Screen
+![Alt text](/images/Downloads.png?raw=true "Downloads screen")
 The Downloads Screen allows users to manage all their offline content in one place.
 
 Key Features:
@@ -140,6 +143,7 @@ Storage Information: Provides a summary of the total space used by downloads and
 Bulk Actions: Includes an option to delete all downloaded content at once to free up space.
 
 # 8. Settings and Account Screens
+![Alt text](/images/Settings.png?raw=true "Settings screen")
 These screens provide options for customizing the app and managing the user's account.
 
 Settings Screen:
